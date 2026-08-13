@@ -28,9 +28,7 @@
 
 ## 📷 Screenshots
 
-### 🖼️ Topology & Dynamic IP Allocation Preview
-![DHCP Configuration Overview](<img width="1920" height="1032" alt="DHCP_Conf" src="https://github.com/user-attachments/assets/a4d919eb-8df5-49f7-aa75-563bf43419b6" />
- )
+
 
 ## 💻 Configuration Commands (CLI)
 
