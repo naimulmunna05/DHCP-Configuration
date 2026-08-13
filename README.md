@@ -28,7 +28,7 @@
 
 ## 📷 Screenshots
 
-
+![DHCP Configuration Overview](DHCP%20Conf/images/DHCP_Conf.png)
 
 ## 💻 Configuration Commands (CLI)
 
